@@ -146,5 +146,12 @@ body {
   height: 3rem;
 }
 
+.hero-img-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .hero-img {
+  max-width: 60%;
 }
